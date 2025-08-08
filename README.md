@@ -19,10 +19,6 @@ A modern, feature-rich todo list web application built with vanilla HTML, CSS, a
 - 📱 **Responsive Design**: Optimized for all device sizes
 - 🎨 **Modern UI**: Glassmorphism design with smooth animations
 
-## 🚀 Live Demo
-
-[View Live Application](https://frabjous-empanada-831d91.netlify.app)
-
 ## 📁 Project Structure
 
 ```
@@ -40,7 +36,6 @@ todo-app/
 - **HTML5**: Semantic markup and accessibility features
 - **CSS3**: Modern styling with Flexbox, Grid, and animations
 - **Vanilla JavaScript**: ES6+ features, classes, and local storage
-- **Local Storage API**: Data persistence without backend
 
 ## 📋 Requirements Met
 
