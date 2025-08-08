@@ -21,7 +21,7 @@ A modern, feature-rich todo list web application built with vanilla HTML, CSS, a
 
 ## 🚀 Live Demo
 
-[View Live Application](https://your-username.github.io/todo-app)
+[View Live Application](https://frabjous-empanada-831d91.netlify.app)
 
 ## 📁 Project Structure
 
